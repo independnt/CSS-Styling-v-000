@@ -48,5 +48,8 @@ figcaption{
 
 #logo h1 { /*selects <h1> if it has the id=logo*/
   font-family: 'Clicker Script', cursive;
+}
 
+#logo h2 {
+  font-family: 'Elsie Swash Caps', cursive;
 }
